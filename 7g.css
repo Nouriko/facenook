@@ -25,3 +25,13 @@
 .post:active{
   background-color: rgb(0, 17, 255);
 }
+.mockey{
+  width: 300px;
+  vertical-align: text-top;
+
+  
+}
+p{
+  text-align: center;
+  
+}
